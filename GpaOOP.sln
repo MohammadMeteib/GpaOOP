@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gpa", "Gpa\Gpa.csproj", "{AE85B9A5-1A96-4141-B203-A1F34870600A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE85B9A5-1A96-4141-B203-A1F34870600A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE85B9A5-1A96-4141-B203-A1F34870600A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE85B9A5-1A96-4141-B203-A1F34870600A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE85B9A5-1A96-4141-B203-A1F34870600A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
